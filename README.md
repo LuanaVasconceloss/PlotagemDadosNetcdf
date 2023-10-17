@@ -1,2 +1,5 @@
 # PlotagemDadosNetcdf
-Plotagem de dados na extensão Netcdf na linguagem python
+
+Mapas Georreferenciados com dados de reanalise no formato .nc, plotagem de váriaveis meteorologicas.
+
+
